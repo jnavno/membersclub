@@ -61,14 +61,7 @@ public class Test {
     //enter an Id that does not exist and ArrayIndexOutOfBoundsException should appear.
     //enter an Id that does exist and its location in the stack should appear.
     
-   
-    
-   
-   
-   
-   
-   
-    
+      
   }
 
 }
