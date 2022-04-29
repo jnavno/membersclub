@@ -1,4 +1,4 @@
-# membersclub
+# Members Club
 
 - This program can register members of a club with a set of attributes such as name address and the like.
 - Each member of the club has a specific membership role, Manager, Junior, Beginner, Officer, etc.
