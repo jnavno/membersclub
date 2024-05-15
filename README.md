@@ -32,7 +32,7 @@ This project is a Java-based membership management system for an organization. I
 
     Open the project in your preferred Java IDE or text editor.
 
-File Structure
+## File Structure
 
     Subscriber.java: Parent class for all member types, containing common attributes and methods.
     AdvancedMember.java: Class representing advanced members with expertise in specific areas.
@@ -42,11 +42,11 @@ File Structure
     MemberManager.java: Class responsible for managing members, including adding, removing, and sorting.
     Test.java: Class containing the main method to test functionalities of the system.
 
-Usage
+## Usage
 
     Open Test.java in your Java IDE.
     Run the Test.java file. This will execute the main method which demonstrates various functionalities of the membership management system.
-
+```bash
 java
 
 public class Test {
@@ -56,7 +56,7 @@ public class Test {
     }
 }
 
-Members Club
+## Members Club
 
     This program can register members of a club with a set of attributes such as name, address, and the like.
     Each member of the club has a specific membership role, such as Manager, Junior, Beginner, Officer, etc.
@@ -66,9 +66,10 @@ Members Club
     It also prints a report of all members given any of their attributes.
     The program is built on a stack data structure, specifically, a stack of arrays to contain strings, boolean, and integer values.
 
-Contributing
+## Contributing
 
 If you would like to contribute to the project, please fork the repository and create a pull request with your changes. Make sure to update the documentation as necessary.
-License
+
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
